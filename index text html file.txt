@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+    <title>utkarsh personal site</title>
+
+<link rel="stylesheet" href="G:\web development\css\styles.css">
+
+  </head>
+  <body>
+    <table cellspacing="20">
+      <td>
+        <img src="https://hosting.photobucket.com/images/i/utkarsh809/IMG_0536.JPG?width=285&height=175&crop=fill" alt="HOTEL">
+      </td>
+      <td>
+        <h1> utkarsh</h1>
+        <p><em> the founder<strong>of web development <a href="https://www.google.com/search?q=flipkart&rlz=1C1CHBF_enIN919IN919&oq=flipkart&aqs=chrome.0.69i59j69i59i450j69i60l6.2010j0j7&sourceid=chrome&ie=UTF-8">hello</a></strong>.</em></p>
+      </td>
+
+    </table>
+
+<table border="2">
+<thead>
+  <hr />
+
+  <tr>
+  <th>Dates</th>
+  <th>Work</th>
+  </tr>
+</thead>
+<tbody>
+   <tr>
+     <td>2010</td>
+      <td>passed 10 bords  9.8</td>
+   </tr>
+   <tr>
+     <td>2022</td>
+     <td>worked as student of bit mesra lab departmen</td>
+   </tr>
+ </tbody>
+</table>
+<hr />
+<h3>Skills</h3>
+    <table cellspacing="10">
+      <tr>
+        <td>web development</td>
+        <td> ❤❤❤❤</td>
+      </tr>
+      <tr>
+        <td>app development</td>
+        <td> ❤❤</td>
+      </tr>
+      <tr>
+        <td>ios development</td>
+        <td> ❤❤❤</td>
+      </tr>
+    </table>
+    <hr />
+
+
+
+  <a href="hobbies.html">my hobbies</a>
+  <a href="contact.html"> my contact</a>
+
+  </body>
+</html>
